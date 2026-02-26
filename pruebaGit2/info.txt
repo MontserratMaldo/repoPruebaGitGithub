@@ -1,2 +1,5 @@
 Hola, soy Montse y estoy practicando Git
+<<<<<<< HEAD
 Hoy aprendí sobre merge
+=======
+>>>>>>> conflicto
