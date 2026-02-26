@@ -1,2 +1,2 @@
 Hola, soy Montse y estoy practicando Git
-Hoy aprendí sobre ramas
+Hoy aprendí sobre merge
